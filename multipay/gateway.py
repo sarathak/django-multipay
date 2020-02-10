@@ -1,0 +1,2 @@
+class Gateway(object):
+    pass
